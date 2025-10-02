@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+Shaurya+Parashar's+Profile" alt="Typing Welcome Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=Welcome+to+My+Profile" alt="Typing Welcome Message" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Shaurya Parashar</h1>  
