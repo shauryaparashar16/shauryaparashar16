@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="600" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shaurya Parashar</h1>  
 
 <p align="center">  
