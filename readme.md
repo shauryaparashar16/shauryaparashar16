@@ -20,14 +20,19 @@
 
 ---
 
-### 🏆 Certifications & Achievements  
+### 🏆 Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified-Ethical_Hacker-red?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-orange?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CTF%20Player-00BFFF?style=for-the-badge&logo=ctftime&logoColor=white"/>
-</p>  
+  <img src="https://img.shields.io/badge/Google-Cyber_Security_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Cyber Security Professional - Google" />
+  <img src="https://img.shields.io/badge/University_of_London-Responsive_Website_Basics-6A1B9A?style=for-the-badge&logo=university&logoColor=white" title="Responsive Website Basics: HTML/CSS/JavaScript - University of London" />
+  <img src="https://img.shields.io/badge/Simplilearn-Ethical_Hacking-F44336?style=for-the-badge&logo=simplilearn&logoColor=white" title="Ethical Hacking - Simplilearn" />
+  <img src="https://img.shields.io/badge/Google-Python_Crash_Course-4285F4?style=for-the-badge&logo=python&logoColor=white" title="Crash Course on Python - Google" />
+  <img src="https://img.shields.io/badge/IIT_Kharagpur-Cloud_Computing-FF6F00?style=for-the-badge&logo=iit&logoColor=white" title="Foundation of Cloud Computing - IIT Kharagpur" />
+  <img src="https://img.shields.io/badge/University_of_California-C++_for_C_Programmer-003262?style=for-the-badge&logo=university&logoColor=white" title="C++ for C Programmer - University of California" />
+  <img src="https://img.shields.io/badge/Google-Cyber_Security_Foundation-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Foundation of Cyber Security - Google" />
+  <img src="https://img.shields.io/badge/IGNOU_Swayam-Cyber_Security_Tools_Techniques-FF9933?style=for-the-badge&logo=ignou&logoColor=white" title="Cyber Security Tools Techniques and Counter Measures - IGNOU & Swayam" />
+</p>
+
 
 ---
 
